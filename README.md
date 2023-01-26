@@ -1,1 +1,1 @@
-# Database-schema
+Link to news api https://newsapi.org/docs/endpoints/sources
